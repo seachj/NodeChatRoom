@@ -30,7 +30,8 @@ form button {
 #messages li {
 	font-size: 18px;
 	padding: 5px 10px;
+	background: #ffb6c1;
 }
 #messages li:nth-child(odd) {
-	background: #eee;
+	background: #c39797;
 }
